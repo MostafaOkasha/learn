@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "PRINCETON_ALGORITHMS_PART_1/Assignment1/algs4.jar"
+        "PRINCETON_ALGORITHMS_PART_1/Assignment1/algs4.jar",
+        "PRINCETON_ALGORITHMS_PART_1/Assignment1/lib/algs4.jar"
     ]
 }
